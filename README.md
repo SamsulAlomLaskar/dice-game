@@ -1,6 +1,8 @@
 # dice-game
 A dice game application developed using HTML, CSS &amp; JS
 
+Best viewed in 1280*700 resoltions
+
 Rules of the Game
 
 When the application opens, it will ask for the player names
